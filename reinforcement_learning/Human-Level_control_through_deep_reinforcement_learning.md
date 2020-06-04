@@ -1,4 +1,4 @@
-# Human-level control through deep reinforcement learning by Mnih et al.
+# Human-level control through deep reinforcement learning by Mnih et al. (2015)
 
 [Link to the paper](https://www.nature.com/articles/nature14236)
 

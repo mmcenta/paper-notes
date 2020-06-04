@@ -1,4 +1,4 @@
-# Few-Shot Autoregressive Density Estimation: Towards Learning to Learn Distributions by Reed et al.
+# Few-Shot Autoregressive Density Estimation: Towards Learning to Learn Distributions by Reed et al. (2017)
 
 [Link to paper](https://arxiv.org/abs/1710.10304)
 
