@@ -1,4 +1,4 @@
-# One-Shot Imitation Learning by Duan et al.
+# One-Shot Imitation Learning by Duan et al. (2017)
 
 [Link to paper](https://arxiv.org/pdf/1703.07326.pdf)
 

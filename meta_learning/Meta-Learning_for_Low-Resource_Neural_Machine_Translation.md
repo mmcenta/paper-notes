@@ -1,4 +1,4 @@
-# Meta-Learning for Low-Resource Neural Machine Translation by Gu et. al.
+# Meta-Learning for Low-Resource Neural Machine Translation by Gu et. al. (2018)
 
 [Link to the paper](https://arxiv.org/abs/1808.08437)
 

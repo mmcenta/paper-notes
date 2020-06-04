@@ -1,4 +1,4 @@
-# Massively Multitask Networks for Drug Discovery
+# Massively Multitask Networks for Drug Discovery by Ramsundar et al. (2015)
 
 [Link to paper](https://arxiv.org/abs/1502.02072)
 
