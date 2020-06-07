@@ -4,13 +4,13 @@
 
 ## General Notes
 
-This paper introduced Deep Q-Networks as they are known today. Here are some general notes I made while reading it:
+* This paper introduced Deep Q-Networks as they are known today;
 
 * This is the first paper successfully dealing with high-dimensional input for agents without hand-crafted features;
 
 * This paper is inspired by TD-Gammon and follows the approach of using non-linear function approximators, instead of the linear approximators that were popular due to better convergence guarantees;
 
-* This is a model-free, off-policy method that uses non-linear function approximation. These characteristics usually result in problems in convergence;
+* This is a model-free, off-policy method that uses non-linear function approximation. These characteristics usually result in convergence problems (from section 11.3: The Deadly Triad of Reinforcement Learning: An Introduction by Sutton & Barto);
 
 ## Method
 
