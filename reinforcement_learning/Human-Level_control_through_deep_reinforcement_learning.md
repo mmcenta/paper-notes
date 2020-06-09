@@ -32,8 +32,6 @@ The experience replay introduced in this paper is a buffer of transitions observ
 
 ## Details
 
-The following points are details I found interesting:
-
 * Formally, the state of the ALE is the whole sequence of frames and actions up to that point. The algorithm partially observes the state, receiving only a stack of the last four frames;
 
 * Frame-skipping (that is, repeating the same action for a set amount of frames) saved them a lot of time while achieving state-of-the-art performance;
